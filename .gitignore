@@ -1,0 +1,28 @@
+#Gradle
+.gradle
+
+#Intellij
+.idea
+*.iml
+*.ipr
+*.iws
+
+#Build folder
+build/
+bin/
+
+#Because mac
+.DS_Store
+
+#env file for Docker
+.env
+
+#jenv
+.jenv
+.java-version
+
+#vscode
+.vscode
+.project
+.settings
+.classpath
